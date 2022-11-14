@@ -9,7 +9,7 @@ The website focuses on learning DOM manipulation .
 - Math.random
 - style.backgroundColor
 
-## [Live Preview](https://api-jokes-generator.netlify.app/)
+## [Live Preview](https://shades-down.netlify.app/)
 
 ### SnapShot of the Webpage
 
